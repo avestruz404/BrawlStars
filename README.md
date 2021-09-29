@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My "Fan" Page on Brawl Stars!
 
-You can use the [editor on GitHub](https://github.com/avestruz404/BrawlStars/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello there! And welcome to my first website built using GitHub, the Jekyll theme, and Markdown. I'll be sharing about my favorite game (currently) on this page and maybe some random rants occasionally.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
 
 ### Markdown
 
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://supercell.com/en/fan-content-policy/) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
