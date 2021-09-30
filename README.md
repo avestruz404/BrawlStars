@@ -12,7 +12,11 @@ Well, the answer is relatively simple. I've actually always known about Supercel
 
 So, basically, what I was saying is that (OMG WTH it stopped lagging every time I type after I wrote that it was so laggy and so slow. whatttt?!) I've had a small history of playing Supercell games in the past, so I kind of knew about Brawl Stars when it came out because my classmates would play and talk about it (from what I overhear). But I didn't truly find out more about it until my friends started playing and that was around 2019. However, in March 2019, I got back into playing Clash Royale and made a new account with my current username/alias of avestruz (the 404 part is only for the instances when I need a unique username) and I was pretty into that game, not gonna lie. I would play it everyday for the entirety of my snack and lunch break, and I even tried convincing one of my friends to play (not the friends who played Brawl Stars). So, when I knew that some of my other friends played Brawl Stars, I didn't download it right away because I was afraid I would become mildly addicted to Brawl Stars just like I was with Clash Royale (*sigh* just when the WiFi was working fine, it's a bit slow right now). So, I never played Brawl Stars when my friends were into it, sadly. To this day in 2021, I still regret not downloading and playing it with them because as you may have pieced it together by now, dear reader, those friends stopped playing Brawl Stars by now :(. But first, back to when I *did* started playing it. So, as I wrote earlier, I was into Clash Royale, which meant I watched a lot of videos about it on YouTube (this began in about late March or early April 2020, the beginnings of quarantine due to COVID-19) and one youtuber I would watch in particular was this guy named OJ, who created content on and uploaded videos of both Clash Royale and Brawl Stars, but I only exclusively watched the Clash Royale videos because that was what I was interested in at the time. Shortly after {I should've made this website about my history with games and not Brawl Stars... hmm let me go change that real quick. hehe I just did}, I **finally decided** to-- download and try out Clash of Clans because I was bored at home and didn't care about school and academic work anymore (cue the meme: they had us in the first half ;))
 
-[Image] (https://static.wikia.nocookie.net/supercell-fankit/images/0/01/Brawl_Stars_Logo.png/revision/latest/scale-to-width-down/1000?cb=20201119001849)
+
+![Brawl Stars Logo](https://static.wikia.nocookie.net/supercell-fankit/images/0/01/Brawl_Stars_Logo.png/revision/latest/scale-to-width-down/2000?cb=20201119001849)
+So... I just figured out how to get that picture into this website page... and it is so gigantic (lol)! 
+
+
 
 This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
 
@@ -44,10 +48,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avestruz404/BrawlStars/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
