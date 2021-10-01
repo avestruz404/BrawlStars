@@ -21,7 +21,7 @@ So... I just figured out how to get that picture into this website page... and i
 
 
 
-This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
+*This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
 
 
 
