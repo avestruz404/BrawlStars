@@ -16,12 +16,15 @@ So, basically, what I was saying is that (OMG WTH it stopped lagging every time 
 
 Sorry for the long paragraphs, I tend to be a "ranter" when texting or writing about things I'm excited or interested about. Too bad the only things I truly like are not an academic subject or field of study I could find interest to major in for college. But that topic is not for this page, but for another repository if I ever do make one! Either way, here is a nice picture of the Brawl Stars Logo until I decide to update more on the particular aspects of the game of Brawl Stars that make me like it.
 
-![Brawl Stars Logo](https://static.wikia.nocookie.net/supercell-fankit/images/0/01/Brawl_Stars_Logo.png/revision/latest/scale-to-width-down/2000?cb=20201119001849)
-So... I just figured out how to get that picture into this website page... and it is so gigantic (lol)! 
+
+![Brawl Stars Logo](https://scfiles.egnyte.com/openpublicdocument.do?forceDownload=false&preview=true&thumbNail=true&w=1200&h=1200&type=proportional&forceDownload=false&link_id=era0VTYeRl&entryId=3d510220-7ec6-4bc8-b992-68b49a55e40f&cb=1633025041508)
+
+So... I just figured out how to get that picture into this website page... and it is so gigantic (lol)! \
+I am using this picture from: https://supr.cl/BrawlFanKitDownload which is their "Fan Kit" available for public use.
 
 
 
-*This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
+An official disclaimer: This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
 
 
 
