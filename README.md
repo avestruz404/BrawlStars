@@ -22,6 +22,12 @@ Sorry for the long paragraphs, I tend to be a "ranter" when texting or writing a
 So... I just figured out how to get that picture into this website page... and it is so gigantic (lol)! \
 I am using this picture from: https://supr.cl/BrawlFanKitDownload which is their "Fan Kit" available for public use.
 
+### Why
+So, I have already delved into how I got started in playing mobile games, specifically ones by Supercell. So, now I will attempt to write out why I enjoy playing Brawl Stars the most, which is going to be a bit hard considering I do not play daily anymore, due to multiple reasons that I will probably get into first before writing down why I like to play the game.
+
+##### Why I am taking a temporary break from playing Brawl Stars
+So, one main reason is because school has started back again, and since we have returned in-person from online learning due to COVID, I have a lot more work to do now and a lot less time.
+
 
 
 An official disclaimer: This material is unofficial and is not endorsed by Supercell. For more information see Supercell's [Fan Content Policy](https://www.supercell.com/fan-content-policy/).
